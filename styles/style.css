@@ -705,7 +705,7 @@ body {
   }
   #frame-1 {
     display: block;
-    overflow-x: hidden;
+    overflow-y: hidden;
     height: 100vh;
     padding-right: 0;
   }
