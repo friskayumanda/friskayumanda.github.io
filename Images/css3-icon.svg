@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="120" fill="none" viewBox="0 0 100 120">
+  <g class="logos:css-3">
+    <path fill="#264DE4" d="M49.94 119.697l-40.697-9.614-9.07-86.56h99.653l-9.078 86.547-40.809 9.627z" class="Vector"/>
+    <path fill="#2965F1" d="M82.975 104.558l7.758-73.957H50v81.737l32.975-7.78z" class="Vector_2"/>
+    <path fill="#EBEBEB" d="M20.965 62.705l1.117 10.616H50V62.705H20.965z" class="Vector_3"/>
+    <path fill="#EBEBEB" d="M18.718 41.217l1.134 10.617H50V41.216H18.718z" class="Vector_4"/>
+    <path fill="#EBEBEB" d="M50 90.276l-.055.012-13.893-3.192-.889-8.467H22.64l1.747 16.669 25.556 6.037.057-.014V90.276z" class="Vector_5"/>
+    <path fill="#000" d="M23.627 0h15.109v5.377h-8.79v5.377h8.79v5.377h-15.11V0z" class="Vector_6"/>
+    <path fill="#000" d="M41.758 0h15.11v4.676h-8.791v.935h8.791v10.754h-15.11v-4.91h8.792v-.935h-8.792V0z" class="Vector_7"/>
+    <path fill="#000" d="M59.89 0H75v4.676h-8.791v.935H75v10.754H59.89v-4.91h8.791v-.935h-8.79V0z" class="Vector_8"/>
+    <path fill="#fff" d="M78.956 62.705l2.252-21.488h-31.25v10.617h17.578l-1.135 10.87H49.957v10.617H65.32l-1.448 13.768-13.914 3.196v11.045l25.575-6.032.188-1.794 2.932-27.949.304-2.85z" class="Vector_9"/>
+  </g>
+</svg>
