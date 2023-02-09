@@ -788,6 +788,7 @@ body {
   #frame-2 {
     min-height: 200vh;
     display: grid;
+    max-height:1350px;
     grid-template-rows: 35% 35% 20%;
     height: -moz-max-content;
     height: max-content;
@@ -861,7 +862,7 @@ body {
   }
   #frame-2 .outer #info {
     padding: 1em 0;
-    margin-top: -30vh;
+    margin-top: -26vh;
     font-size: clamp(11px, 1.8vw, 13px);
     font-family: Arial, Helvetica, sans-serif;
   }
