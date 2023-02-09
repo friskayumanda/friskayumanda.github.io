@@ -508,7 +508,6 @@ body {
 @media screen and (max-width: 760px) and (min-height: 401px) {
   * {
     max-width: 100vw;
-    background-color: #fc0000;
   }
   #frame-1 {
     display: block;
