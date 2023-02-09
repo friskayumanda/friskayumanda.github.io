@@ -705,7 +705,6 @@ body {
   }
   #frame-1 {
     display: block;
-    overflow-y: hidden;
     height: 100vh;
     padding-right: 0;
   }
@@ -753,7 +752,7 @@ body {
     content: "";
     width: 100%;
     max-width: 540px;
-    min-width: 280px;
+    min-width: 260px;
     margin: 0;
     height: 45vh;
     min-height: 245px;
