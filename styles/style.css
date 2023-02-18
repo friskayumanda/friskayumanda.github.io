@@ -943,6 +943,9 @@ body {
     min-height: 50px;
     padding: 2vh 0;
   }
+  #frame4 img #bigquery{
+    margin: 0 2vh;
+  }
   #frame-5 {
     display: grid;
     grid-template-rows: 35% 65%;
