@@ -939,8 +939,6 @@ body {
     padding-top: clamp(20px, 3vw, 40px);
   }
   #frame-4 img {
-    width: 16lvw;
-    height: 16lvw;
     min-width: 50px;
     min-height: 50px;
     padding: 2vh 0;
